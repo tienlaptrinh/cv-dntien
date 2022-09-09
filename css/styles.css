@@ -10121,18 +10121,19 @@ section.resume-section {
   max-width: 75rem;
 }
 
-.resume-section-content .dev-icons {
-
-}
-
-.resume-section-content li {
+.resume-section-content .fa-ul li {
   list-style: none;
-  margin-left: -38px;
+  margin-left: -15px;
   line-height: 1.8;
 }
 
 .resume-section-content li .hobby-icon {
   width: 30px;
+}
+
+.resume-section-content .hobby-list {
+  list-style: none;
+  margin-left: -38px;
 }
 
 section.resume-section .resume-section-content {
