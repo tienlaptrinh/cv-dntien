@@ -10127,15 +10127,6 @@ section.resume-section {
   line-height: 1.8;
 }
 
-.resume-section-content li .hobby-icon {
-  width: 30px;
-}
-
-.resume-section-content .hobby-list {
-  list-style: none;
-  margin-left: -38px;
-}
-
 section.resume-section .resume-section-content {
   width: 100%;
 }
