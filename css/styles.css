@@ -2221,6 +2221,10 @@ textarea.form-control {
   border-radius: 0.25rem;
 }
 
+.fa-star {
+  color: var(--yellow);
+}
+
 .was-validated :valid ~ .valid-feedback,
 .was-validated :valid ~ .valid-tooltip,
 .is-valid ~ .valid-feedback,
