@@ -510,6 +510,12 @@ mark,
   color: #6c757d;
 }
 
+video {
+  margin-top: 48px;
+  /* padding-left: 32px;
+  border-left: 2px solid #000; */
+}
+
 code {
   font-size: 87.5%;
   color: #e83e8c;
@@ -6626,6 +6632,7 @@ button.bg-dark:focus {
 
 .flex-grow-1 {
   flex-grow: 1 !important;
+  width: 50%;
 }
 
 .flex-shrink-0 {
