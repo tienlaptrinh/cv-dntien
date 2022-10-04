@@ -516,6 +516,11 @@ video {
   border-left: 2px solid #000; */
 }
 
+.project-img img {
+  width: 100%;
+  margin-top: 48px;
+}
+
 code {
   font-size: 87.5%;
   color: #e83e8c;
@@ -1949,6 +1954,12 @@ pre code {
 .table-dark.table-hover tbody tr:hover {
   color: #fff;
   background-color: rgba(255, 255, 255, 0.075);
+}
+
+@media (max-width: 1023px) {
+  .flex-grow-1 {
+    width: 100% !important;
+  }
 }
 
 @media (max-width: 575.98px) {
